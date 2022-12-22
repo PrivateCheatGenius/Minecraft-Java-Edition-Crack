@@ -7,3 +7,6 @@ Premium server is accessible ? : YES !!!
 How to start ? : Launch, accept conditions, install and enjoy !
 
 Can i changed informations on accounts ? : No you can't.
+
+Last check : 22/12/2022
+State : WORKING & UNDETECTABLE
